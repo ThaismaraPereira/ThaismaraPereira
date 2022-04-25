@@ -1,6 +1,5 @@
 ### Olá! Eu sou a Thaismara L. Pereira 👋
 
-- 🔭 Atualmente sou estagiária de desenvolvimento
 - 🌱 Estou estudando sobre desenvolvimento front-end
 - 😄 Pronouns: Ela/Dela
 
