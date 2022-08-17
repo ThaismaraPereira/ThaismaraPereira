@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Thaismara L. Pereira 👋
 
-- 🌱 Estou estudando sobre desenvolvimento front-end
+- 🌱 Estou estudando sobre desenvolvimento web e layouts responsivos
 - 😄 Pronouns: Ela/Dela
 
 <div align="center">
