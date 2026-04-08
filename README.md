@@ -17,7 +17,7 @@
     <img align="center" alt="Thais-Cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
     <img align="center" alt="Thais-postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
     <img align="center" alt="Thais-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
-    <img align="center" alt="Thais-nodejs" height="30" width="40" scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    <img align="center" alt="Thais-reactjs" height="30" width="40" scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
     
   <img align="right" alt="Thais-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/961345818982486066/961345902008762498/figurinha.png">
 </div>
