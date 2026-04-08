@@ -1,6 +1,5 @@
 ### Olá! Eu sou a Thaismara L. Pereira 👋
 
-- 🌱 Estou estudando sobre desenvolvimento web e layouts responsivos
 - 😄 Pronouns: Ela/Dela
 
 <div align="center">
@@ -28,7 +27,7 @@
     <a href="https://wa.link/lv2jvt" ><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
  <a href="https://discord.com/users/353692203740037120" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:thaismarapereira@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thaismara-l-pereira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/thaismara-pereira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   ![snake gif](https://github.com/ThaismaraPereira/ThaismaraPereira/blob/output/github-contribution-grid-snake.svg)
  
