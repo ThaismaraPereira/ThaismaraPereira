@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/961345818982486066/961345902008762498/figurinha.png" height="150" style="border-radius:50px;" alt="Thaismara"/>
+  <img src="https://1drv.ms/i/c/841984ccbcc7ed0a/IQCkepn-9G93T5X_ZuyMhwdAAWWynI9lM4huzhP0rjvq_w4?e=NhvEyn" height="150" style="border-radius:50px;" alt="Thaismara"/>
   
   # Olá! Eu sou a Thaismara L. Pereira 👋
   
